@@ -1,5 +1,11 @@
 div{
     background-color: blanchedalmond;
+    width: 50%;
+    border: 5px solid blueviolet;
+    box-shadow: 10px 10px 10px black;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .header{
